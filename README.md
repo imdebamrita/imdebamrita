@@ -3,8 +3,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=imdebamrita&label=Profile%20views&color=0e75b6&style=flat" alt="imdebamrita" /></p>
 
-<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?debamritapaul" alt="Hsiang's Kaggle Summary Card">
-
 <p align="left">
     <a href="https://twitter.com/debamritap" target="blank"><img src="https://img.shields.io/twitter/follow/debamritap?logo=twitter&style=for-the-badge" alt="debamritap" /></a>
 </p>
@@ -62,3 +60,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdebamrita&show_icons=true&locale=en" alt="imdebamrita" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdebamrita&" alt="imdebamrita" /></p>
+<p><img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?debamritapaul" alt="Hsiang's Kaggle Summary Card"></p>
