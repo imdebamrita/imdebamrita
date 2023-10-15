@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=imdebamrita&label=Profile%20views&color=0e75b6&style=flat" alt="imdebamrita" /></p>
 
-<iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?YOURKAGGLEUSERNAME" width="100%" height="300" style="border:none; min-width: 800px;"></iframe>
+<iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?debamritapaul" width="100%" height="300" style="border:none; min-width: 800px;"></iframe>
 
 <p align="left">
     <a href="https://twitter.com/debamritap" target="blank"><img src="https://img.shields.io/twitter/follow/debamritap?logo=twitter&style=for-the-badge" alt="debamritap" /></a>
