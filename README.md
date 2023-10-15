@@ -59,5 +59,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdebamrita&show_icons=true&locale=en" alt="imdebamrita" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdebamrita&" alt="imdebamrita" /></p>
-<p><img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?debamritapaul" alt="Hsiang's Kaggle Summary Card"></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imdebamrita&" alt="imdebamrita" /></p>
+<p>&nbsp;<img align="center" src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?debamritapaul" alt="Debamrita Paul Kaggle Summary Card"></p>
