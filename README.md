@@ -53,17 +53,12 @@
 </a>
     
 <details>
-
 <summary> <strong> More stats </strong> </summary>
 <a href="https://github.com/imdebamrita">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imdebamrita&theme=nord_dark" >
-
 </details>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="src/img/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="src/img/github-snake.svg" />
-  <img alt="github-snake" src="src/img/github-snake.svg" />
-</picture>
+    
+![Snake animation](https://raw.githubusercontent.com/imdebamrita/imdebamrita/output/github-contribution-grid-snake-dark.svg)
 </div>
 <!---
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdebamrita&show_icons=true&locale=en&layout=compact" alt="imdebamrita" /></p>
