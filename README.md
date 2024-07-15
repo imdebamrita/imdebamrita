@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=5000&center=true&width=5000&height=500&lines=Hello+<guys/>!;I'm+Debamrita" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=5000&center=true&width=5000&height=500&lines=Hello+<Folks/>!;I'm+Debamrita" />
 <h3 align="center">A passionate Machine Learning, Deep Learning student and Frontend Developer from India</h3>
 
 
