@@ -57,7 +57,7 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imdebamrita=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imdebamrita&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imdebamrita&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imdebamrita&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imdebamrita&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imdebamrita&theme=nord_dark&utcOffset=8)
 
