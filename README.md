@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debamrita Paul</h1>
-<h3 align="center">A passionate Machine Learning, Deep Learning student and frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning, Deep Learning student and Frontend Developer from India</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=imdebamrita&label=Profile%20views&color=0e75b6&style=flat" alt="imdebamrita" /></p>
 
