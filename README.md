@@ -56,6 +56,12 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imdebamrita=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imdebamrita&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imdebamrita&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imdebamrita&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imdebamrita&theme=nord_dark&utcOffset=8)
+
+
 <!---
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdebamrita&show_icons=true&locale=en&layout=compact" alt="imdebamrita" /></p>
 
@@ -66,6 +72,3 @@
     ![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?chienhsianghung)
 --->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imdebamrita=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imdebamrita&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imdebamrita&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imdebamrita&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imdebamrita&theme=nord_dark&utcOffset=8)
