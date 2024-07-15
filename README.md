@@ -5,18 +5,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=5000&center=true&width=5000&height=500&lines=Hello+<Folks/>!;I'm+Debamrita" />
 <h3 align="center">A passionate Machine Learning, Deep Learning student and Frontend Developer from India</h3>
 
+<a href="https://www.instagram.com/im_debamrita"> <img width="20px" height="20px" src="icon/instagram.png" alt="instagram" /> &nbsp;
+<a href="https://twitter.com/DebamritaP"> <img width="20px" height="20px" src="icon/twitter.png" alt="twitter" /> &nbsp;
+<a href="mailto:imdebamrita@gmail.com"> <img width="20px" height="20px" src="icon/google-plus.png" alt="gmail" /> &nbsp;
+<a href="https://t.me/im_debamrita"> <img width="20px" height="20px" src="icon/telegram.png" alt="telegram" /> &nbsp;
+<a href="https://discord.gg/im_debamrita"> <img width="20px" height="20px" src="icon/discord.png" alt="discord" /> &nbsp;
+<a href="https://www.linkedin.com/in/imdebamritapaul"> <img width="20px" height="20px" src="icon/linkedin.png" alt="linkedin" /> &nbsp;
 
-<a href="https://www.instagram.com/im_debamrita"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/instagram.png" alt="instagram" /> &nbsp;
-<a href="https://twitter.com/DebamritaP"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/twitter.png" alt="twitter" /> &nbsp;
-<a href="mailto:imdebamrita@gmail.com"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/google-plus.png" alt="gmail" /> &nbsp;
-<a href="https://t.me/im_debamrita"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/telegram.png" alt="telegram" /> &nbsp;
-<a href="https://discord.gg/im_debamrita"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/discord.png" alt="discord" /> &nbsp;
-<a href="https://www.linkedin.com/in/imdebamritapaul"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/linkedin.png" alt="linkedin" /> &nbsp;
-<!---<a href="https://dev.to/imdebamrita"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/devto.png" alt="devto" /> &nbsp;
-<a href="https://www.buymeacoffee.com/imdebamrita"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/coffee.jpg" alt="buymecoffee" /> &nbsp;--->
-    
+<!---<a href="https://dev.to/imdebamrita"> <img width="20px" height="20px" src="icon/devto.png" alt="devto" /> &nbsp;
+<a href="https://www.buymeacoffee.com/imdebamrita"> <img width="20px" height="20px" src="icon/coffee.jpg" alt="buymecoffee" /> &nbsp;--->
+
 </a>
-
 
 </div>
 <hr></hr>
@@ -38,7 +37,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-69f?style=flat&logo=postgresql&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-eee?style=flat&logo=shadcnui&logoColor=black)
-
 
 <br>
 <br>
@@ -68,5 +66,5 @@
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imdebamrita&" alt="imdebamrita" /></p>
     <p>&nbsp;<img align="center" src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?debamritapaul" alt="Debamrita Paul Kaggle Summary Card" /></p>
     ![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?chienhsianghung)
---->
 
+--->
