@@ -4,68 +4,62 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=5000&center=true&width=5000&height=500&lines=Hello+<guys/>!;I'm+Debamrita" />
 <h3 align="center">A passionate Machine Learning, Deep Learning student and Frontend Developer from India</h3>
+
+
+<a href="https://www.instagram.com/im_debamrita"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/instagram.png" alt="instagram" /> &nbsp;
+<a href="https://twitter.com/nqbill"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/twitter.png" alt="twitter" /> &nbsp;
+<a href="mailto:imdebamrita@gmail.com"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/google-plus.png" alt="gmail" /> &nbsp;
+<a href="https://t.me/im_debamrita"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/telegram.png" alt="telegram" /> &nbsp;
+<a href="https://discord.gg/im_debamrita"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/discord.png" alt="discord" /> &nbsp;
+<a href="https://www.linkedin.com/in/imdebamritapaul"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/linkedin.png" alt="linkedin" /> &nbsp;
+<!---<a href="https://dev.to/nqbill"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/devto.png" alt="devto" /> &nbsp;
+<a href="https://www.buymeacoffee.com/nqbill"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/coffee.jpg" alt="buymecoffee" /> &nbsp;--->
+    
+</a>
+
+
 </div>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=imdebamrita&label=Profile%20views&color=0e75b6&style=flat" alt="imdebamrita" /></p>
+<hr></hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imdebamrita&rank=-C,-B&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left">
-    <a href="https://twitter.com/debamritap" target="blank"><img src="https://img.shields.io/twitter/follow/debamritap?logo=twitter&style=for-the-badge" alt="debamritap" /></a>
-</p>
-
-- 📫 How to reach me **imdebamrita@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/debamritap" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debamritap" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/imdebamritapaul" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdebamritapaul" height="30" width="40" />
-    </a>
-    <a href="https://kaggle.com/debamritapaul" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="debamritapaul" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/debamrita paul" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="debamrita paul" height="30" width="40" />
-    </a>
-    <a href="https://www.hackerrank.com/@im_debamrita" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@im_debamrita" height="30" width="40" />
-    </a>
-    <a href="https://www.leetcode.com/imdebamrita" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imdebamrita" height="30" width="40" />
-    </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
-</p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imdebamrita&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imdebamrita&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imdebamrita&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imdebamrita&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imdebamrita&theme=nord_dark&utcOffset=8)
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-111?style=flat&logo=react&logoColor=blue)
+![NextJs](https://img.shields.io/badge/Next.Js-222?style=flat&logo=nextdotjs)
+![Tailwind Css](https://img.shields.io/badge/Tailwind%20Css-237?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-303?style=flat&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/MySQL-864?style=flat&logo=mysql&logoColor=black&color=orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-69f?style=flat&logo=postgresql&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-eee?style=flat&logo=shadcnui&logoColor=black)
 
 
+<br>
+<br>
+
+<div align="center" >
+<a href="https://github.com/nqbill">
+    
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imdebamrita&theme=nord_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imdebamrita&theme=nord_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imdebamrita&theme=nord_dark" width="32.5%">
+    
+</a>
+    
+<details>
+
+<summary> <strong> More stats </strong> </summary>
+<a href="https://github.com/nqbill">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imdebamrita&theme=nord_dark" >
+
+</details>
+</div>
 <!---
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdebamrita&show_icons=true&locale=en&layout=compact" alt="imdebamrita" /></p>
 
