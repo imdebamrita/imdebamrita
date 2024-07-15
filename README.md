@@ -6,14 +6,14 @@
 <h3 align="center">A passionate Machine Learning, Deep Learning student and Frontend Developer from India</h3>
 
 
-<a href="https://www.instagram.com/im_debamrita"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/instagram.png" alt="instagram" /> &nbsp;
-<a href="https://twitter.com/nqbill"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/twitter.png" alt="twitter" /> &nbsp;
-<a href="mailto:imdebamrita@gmail.com"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/google-plus.png" alt="gmail" /> &nbsp;
-<a href="https://t.me/im_debamrita"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/telegram.png" alt="telegram" /> &nbsp;
-<a href="https://discord.gg/im_debamrita"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/discord.png" alt="discord" /> &nbsp;
-<a href="https://www.linkedin.com/in/imdebamritapaul"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/linkedin.png" alt="linkedin" /> &nbsp;
-<!---<a href="https://dev.to/nqbill"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/devto.png" alt="devto" /> &nbsp;
-<a href="https://www.buymeacoffee.com/nqbill"> <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/coffee.jpg" alt="buymecoffee" /> &nbsp;--->
+<a href="https://www.instagram.com/im_debamrita"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/instagram.png" alt="instagram" /> &nbsp;
+<a href="https://twitter.com/DebamritaP"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/twitter.png" alt="twitter" /> &nbsp;
+<a href="mailto:imdebamrita@gmail.com"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/google-plus.png" alt="gmail" /> &nbsp;
+<a href="https://t.me/im_debamrita"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/telegram.png" alt="telegram" /> &nbsp;
+<a href="https://discord.gg/im_debamrita"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/discord.png" alt="discord" /> &nbsp;
+<a href="https://www.linkedin.com/in/imdebamritapaul"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/linkedin.png" alt="linkedin" /> &nbsp;
+<!---<a href="https://dev.to/imdebamrita"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/devto.png" alt="devto" /> &nbsp;
+<a href="https://www.buymeacoffee.com/imdebamrita"> <img width="20px" height="20px" src="https://github.com/imdebamrita/imdebamrita/blob/main/src/icon/coffee.jpg" alt="buymecoffee" /> &nbsp;--->
     
 </a>
 
@@ -44,7 +44,7 @@
 <br>
 
 <div align="center" >
-<a href="https://github.com/nqbill">
+<a href="https://github.com/imdebamrita">
     
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imdebamrita&theme=nord_dark" width="32.5%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imdebamrita&theme=nord_dark" width="32.5%">
@@ -55,7 +55,7 @@
 <details>
 
 <summary> <strong> More stats </strong> </summary>
-<a href="https://github.com/nqbill">
+<a href="https://github.com/imdebamrita">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imdebamrita&theme=nord_dark" >
 
 </details>
