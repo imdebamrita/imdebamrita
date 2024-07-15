@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Debamrita Paul</h1>
-<h3 align="center">A passionate Machine Learning, Deep Learning student and Frontend Developer from India</h3>
+<div align="center">
 
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=5000&center=true&width=5000&height=500&lines=Hello+<guys/>!;I'm+Debamrita" />
+<h3 align="center">A passionate Machine Learning, Deep Learning student and Frontend Developer from India</h3>
+</div>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=imdebamrita&label=Profile%20views&color=0e75b6&style=flat" alt="imdebamrita" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imdebamrita&rank=-C,-B&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
