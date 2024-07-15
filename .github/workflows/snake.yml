@@ -1,28 +1,36 @@
-name: Generate Snake
+name: Generate Snake Game from GitHub Contribution Grid
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "30 8 * * *"
-  workflow_dispatch:
+    - cron: "30 18 * * *"  # Run at 18:30 UTC (midnight IST)
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v2
-      
-      - name: Generate snakes
-        uses: Platane/snk@master
-        with:
-          github_user_name: imdebamrita
-          # gif_out_path: src/img/snake.gif
-          svg_out_path: src/img/snake.svg
 
-      - name: Commit & Push changes
-        uses: actions-js/push@master
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3
         with:
-          github_token: ${{ secrets.MY_TOKEN }}
-          author_name: "snk"
-          message: ":octocat: build snake"
+          # github user name to read the contribution graph from (**required**)
+          # using action context var `github.repository_owner` or specified user
+          github_user_name: imdebamrita
+
+          # list of files to generate.
+          # one file per line. Each output can be customized with options as query string.
+          #
+          #  supported options:
+          #  - palette:     A preset of color, one of [github, github-dark, github-light]
+          #  - color_snake: Color of the snake
+          #  - color_dots:  Coma separated list of dots color.
+          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+          #                 Exactly 5 colors are expected.
+          outputs: |
+            src/img/github-snake.svg
+            src/img/github-snake-dark.svg?palette=github-dark
+            src/img/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
