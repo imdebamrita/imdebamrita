@@ -59,6 +59,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imdebamrita&theme=nord_dark" >
 
 </details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </div>
 <!---
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdebamrita&show_icons=true&locale=en&layout=compact" alt="imdebamrita" /></p>
