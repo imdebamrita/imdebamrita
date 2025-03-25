@@ -20,23 +20,50 @@
 </div>
 <hr/>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
+<div align="center">
+    
+### 🚀 **Tools I Use**  
+
+#### 🖥️ **Programming Languages**:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+#### 🌐 **Frontend Development**: 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-111?style=flat&logo=react&logoColor=blue)
-![NextJs](https://img.shields.io/badge/Next.Js-222?style=flat&logo=nextdotjs)
-![Tailwind Css](https://img.shields.io/badge/Tailwind%20Css-237?style=flat&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/Next.Js-222?style=flat&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20Css-237?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-303?style=flat&logo=bootstrap)
+![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-eee?style=flat&logo=shadcnui&logoColor=black)
+
+#### 🧠 **Machine Learning & AI**: 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-007ACC?style=flat&logo=jax&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+#### 🛠 **Backend & Databases**: 
 ![MySQL](https://img.shields.io/badge/MySQL-864?style=flat&logo=mysql&logoColor=black&color=orange)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-69f?style=flat&logo=postgresql&logoColor=black)
+![Hono](https://img.shields.io/badge/Hono-000?style=flat&logo=hono&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-563D7C?style=flat&logo=drizzle&logoColor=white)
+![Neon DB](https://img.shields.io/badge/Neon%20DB-336791?style=flat&logo=postgresql&logoColor=white)
+
+#### ⚙️ **Version Control & DevOps**: 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-eee?style=flat&logo=shadcnui&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+</div>
 
 <div align="center" >
 
@@ -62,6 +89,7 @@
     
 ![Snake animation](https://raw.githubusercontent.com/imdebamrita/imdebamrita/output/github-contribution-grid-snake-dark.svg)
 </div>
+
 <!---
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdebamrita&show_icons=true&locale=en&layout=compact" alt="imdebamrita" /></p>
 
@@ -69,6 +97,6 @@
 
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imdebamrita&" alt="imdebamrita" /></p>
     <p>&nbsp;<img align="center" src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?debamritapaul" alt="Debamrita Paul Kaggle Summary Card" /></p>
-    ![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?chienhsianghung)
+    ![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?chienhsianghung) --->
 
---->
+
