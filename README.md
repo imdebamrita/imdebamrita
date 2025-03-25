@@ -18,7 +18,7 @@
 </a>
 
 </div>
-<hr></hr>
+<hr/>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -38,16 +38,20 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-eee?style=flat&logo=shadcnui&logoColor=black)
 
-<br>
+<div align="center" >
+
+<div style="width: 100%">
+    <img src="https://komarev.com/ghpvc/?username=imdebamrita&label=Stalked%20by&color=02f28a&style=flat&color=333333">
+</div>
+
 <br>
 
-<div align="center" >
 <a href="https://github.com/imdebamrita">
-    
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imdebamrita&theme=nord_dark" width="32.5%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imdebamrita&theme=nord_dark" width="32.5%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imdebamrita&theme=nord_dark" width="32.5%">
-    
+
 </a>
     
 <details>
